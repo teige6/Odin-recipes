@@ -1,1 +1,1 @@
-# Odin-recipes
+This is my first project through odin, in this project i will be building a webpage with recipes on various dishes. In this project i will demonstrate skills with the terminal, HTML, and making multiple pages with recipes.
